@@ -1,0 +1,26 @@
+{
+  "name": "chtulutech_dicebot",
+  "version": "1.0.0",
+  "description": "Bot to manage dice rolls for ChtulhuTech",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davmartor/CthulhuTech_DiceBot.git"
+  },
+  "keywords": [
+    "CthulhuTech",
+    "DiceBot"
+  ],
+  "author": "@davmartor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davmartor/CthulhuTech_DiceBot/issues"
+  },
+  "homepage": "https://github.com/Davmartor/CthulhuTech_DiceBot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
